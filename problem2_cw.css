@@ -1,9 +1,10 @@
+/*paragraph element selector*/
 p{
     background: rgba(128, 128, 128, 0.6);
 
     margin-right: 10%;
 }
-
+/*class selector*/
 .secondparagraph{
 
     background: rgba(0, 0, 255, 0.51);
@@ -13,7 +14,7 @@ p{
     margin-left: auto;
     margin-right: auto;
 }
-
+/*class selector*/
 .pinkbackground{
 
     background: pink;
@@ -21,7 +22,7 @@ p{
     padding-top: 10px;
     padding-bottom: 10px;
 }
-
+/*class selector*/
 .styleit{
     width: 500px;
     height: 100px;
